@@ -20,7 +20,7 @@ the order button.
 
 # Author
 
-[Abiwasabi](https://github.com/Abigael-Wasabi)
+[Abiwasabi](https://github.com/abiwasabi-star)
 
 ![Screenshot 2024-02-25 010604](https://github.com/Abigael-Wasabi/signupANDROID/assets/94919325/55071029-6c0d-4f16-962e-b268d9cb04ba)
 ![Screenshot 2024-02-26 101539](https://github.com/Abigael-Wasabi/signupANDROID/assets/94919325/52f61ed6-187f-4a0a-aebf-4fba0f6f0d9b)
